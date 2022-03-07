@@ -18,7 +18,7 @@
 
 ## 💻 Project
 
-Upfi is a platform to upload images. This is the eighth of ReactJS track of Ignite course from [Rocketseat](https://rocketseat.com.br/).
+Upfi is a platform to upload images. This is the eighth challenge of ReactJS track of Ignite course from [Rocketseat](https://rocketseat.com.br/).
 
 ## ✨ Technologies
 
